@@ -11,8 +11,10 @@
             int y = Convert.ToInt32(Console.ReadLine());
 
             // تستخدم دائما كاونتر و نستعمل فيها ( i ) 
-            // 
+            /* Syntax  (Ececuted one time like i=x );(Condition i <= y);
+             (Exection everytime i++, means i+1 everytime)*/
             // FOR LOOP - Count from x to y
+
             Console.WriteLine("\n--- FOR LOOP ---");
             for (int i = x; i <= y; i++)
             {
@@ -21,6 +23,7 @@
 
             // معتمد على الحالات العادية مثلا اصغر من اكبر من 
             // WHILE LOOP - Repeat while x is less than y
+
             Console.WriteLine("\n--- WHILE LOOP ---");
             int count = x;
             while (count <= y)
@@ -34,6 +37,7 @@
 
             // اول جرب مره بعدين شوف الحاله ايش تقول 
             // DO-WHILE LOOP - Execute first, then check condition
+
             Console.WriteLine("\n--- DO-WHILE LOOP ---");
             int doCount = x;
             do
@@ -44,6 +48,7 @@
 
             // لوب داخل لوب
             // NESTED LOOPS - Loop inside loop
+
             Console.WriteLine("\n--- NESTED LOOPS ---");
             for (int i = 1; i <= x; i++)
             {

@@ -2,5 +2,6 @@
   <Project Path="Task1.1_PUSH/Task1.1_PUSH.csproj" />
   <Project Path="Task1.2_Braching_SDLC_Fundementals/Task1.2_Braching_SDLC_Fundementals.csproj" />
   <Project Path="Task1.3-C#-Fundementals/Task1.3-C#-Fundementals.csproj" />
+  <Project Path="Task1_Practice2/Task1_Practice2.csproj" Id="dd42e5cc-4727-491f-9568-830721f041d3" />
   <Project Path="Task_1_Practice/Task_1_Practice.csproj" Id="09c5b626-5f5a-4325-b704-5989eb82db04" />
 </Solution>

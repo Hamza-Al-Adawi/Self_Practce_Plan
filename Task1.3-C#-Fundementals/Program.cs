@@ -33,8 +33,6 @@
             }
 
 
-
-
             // اول جرب مره بعدين شوف الحاله ايش تقول 
             // DO-WHILE LOOP - Execute first, then check condition
 
@@ -57,6 +55,10 @@
                     Console.Write($"({i},{j}) ");
                 }
                 Console.WriteLine();
+
+                // (ln) means new line in the console output
+                // (ln) يعني سطر جديد في مخرجات الكونسول
+                // (\n) means new line in the console output - amazing info ai uses this alot
             }
         }
     }
